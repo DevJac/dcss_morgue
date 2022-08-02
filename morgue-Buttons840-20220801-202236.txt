@@ -1,0 +1,252 @@
+ Dungeon Crawl Stone Soup version 0.28.0-53-g5a82cb2 (webtiles) character file.
+
+Game seed: 2729416887527515041
+
+117 Buttons840 the Chopper (level 5, -1/47 HPs)
+             Began as a Hill Orc Berserker on Aug 1, 2022.
+             Was a Believer of Trog.
+             Succumbed to a water moccasin's poison
+             ... on level 4 of the Dungeon.
+             The game lasted 00:41:23 (3091 turns).
+
+Buttons840 the Chopper (Hill Orc Berserker)         Turns: 3091, Time: 00:41:24
+
+Health: -1/47      AC: 10    Str: 22    XL:     5   Next: 1%
+Magic:  5/5        EV:  4    Int:  7    God:    Trog [**....]
+Gold:   42         SH: 15    Dex: 10    Spells: 4/4 levels left
+
+rFire   . . .      SeeInvis .   a - +0 hand axe
+rCold   . . .      Faith    .   h - +0 tower shield
+rNeg    . . .      Spirit   .   e - +0 chain mail
+rPois   .          Reflect  +   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   f - +0 pair of gloves
+Will    ++...                   (no boots)
+Stlth   ..........              k - amulet of reflection
+HPRegen 1.15/turn               u - ring of flight
+MPRegen 0.09/turn               (no ring)
+
+@: lethally poisoned (-1 -> -6), strong-willed, flying, regenerating
+A: no striking features
+a: Renounce Religion, Berserk, Trog's Hand
+
+
+You were on level 4 of the Dungeon.
+You worshipped Trog.
+Trog was pleased with you.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 163 gold pieces.
+You spent 121 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 hand axe (weapon)
+ g - a +0 hand axe
+Missiles
+ d - 56 stones (quivered)
+Armour
+ e - a +0 chain mail (worn)
+ f - a +0 pair of gloves (worn)
+ h - a +0 tower shield (worn)
+Jewellery
+ j - a ring of ice
+ k - an amulet of reflection (around neck)
+ u - a ring of flight (left hand)
+ v - a ring of ice
+Scrolls
+ b - a scroll of teleportation {unknown}
+ i - a scroll of fear {unknown}
+ l - a scroll of vulnerability {unknown}
+ n - a scroll of enchant weapon {unknown}
+ q - 2 scrolls of brand weapon {unknown}
+Potions
+ c - a potion of might {unknown}
+ m - 2 potions of berserk rage {unknown}
+ o - a potion of cancellation {unknown}
+ p - a potion of heal wounds {unknown}
+ r - a potion of attraction
+ s - a potion of curing
+ t - a potion of brilliance
+
+
+   Skills:
+ + Level 4.5 Fighting
+ + Level 5.7 Axes
+ + Level 2.9 Armour
+ - Level 1.6 Dodging
+ + Level 1.3 Shields
+
+
+You had 4 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Static Discharge         Conj/Air       0%         N/A       100%        2
+ Dispel Undead            Necr           0%         3d6       100%        4
+ Sticky Flame             Conj/Fire      0%         2d3       100%        4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Hepliaklqana
+Makhleb
+
+Shops:
+D:1 (!
+
+Message History
+
+You hit the water moccasin.
+The water moccasin is heavily wounded.
+You feel sick. The water moccasin bites you.
+You block the water moccasin's attack.
+You hit the water moccasin but do no damage.
+The water moccasin is heavily wounded.
+You feel sick. You block the water moccasin's attack.
+The water moccasin barely misses you.
+You barely miss the water moccasin.
+The water moccasin is heavily wounded.
+You feel sick. You block the water moccasin's attack.
+The water moccasin bites you.
+You hit the water moccasin.
+The water moccasin is severely wounded.
+You feel sick. The water moccasin bites you.
+You are more poisoned.
+The water moccasin poisons you! The water moccasin barely misses you.
+You closely miss the water moccasin.
+The water moccasin is severely wounded.
+You feel very sick.
+The water moccasin bites you.
+You are lethally poisoned!
+The water moccasin poisons you! The water moccasin bites you.
+* * * LOW HITPOINT WARNING * * *
+You block the water moccasin's attack.
+Your skin crawls.
+You feel strong-willed.
+* * * LOW HITPOINT WARNING * * *
+You feel very sick.
+You block the water moccasin's attack.
+You are too injured to fight recklessly!
+You miss the water moccasin.
+The water moccasin is severely wounded.
+* * * LOW HITPOINT WARNING * * *
+You feel very sick.
+You block the water moccasin's attack. The water moccasin bites you.
+* * * LOW HITPOINT WARNING * * *
+You barely miss the water moccasin.
+The water moccasin is severely wounded.
+You die...
+
+                          ....##
+                 ..#      #...##
+                #..#      #...##
+       #      ##...## # ###...##
+       #.  ####.$...#.###.....##
+        .  ........<..........##
+     #  #. #.#.......?# #.......
+     #. #.##.#.S...(..# #.....##
+     #.# #.#.##@....#.  #.....##
+  #.##..###...........# #####.##
+  .......#.#.####.###.#     #.##
+#.#######.##.#   .#         #.##
+.............#    #  .#######.##
+........######       .........##
+#.#####.....#        ####.###..#
+      #####.#           #....#.#
+          #.#           #.####.#
+
+
+You could see a water moccasin.
+
+Vanquished Creatures
+  4 gnolls
+  2 adders (D:3)
+  A worm (D:2)
+  2 dart slugs (D:1)
+  5 orcs (D:3)
+  5 endoplasms
+  3 giant cockroaches
+  4 goblins
+  2 hobgoblins
+  5 kobolds
+  A quokka (D:1)
+  4 ball pythons
+  4 bats
+  5 frilled lizards
+  4 rats
+51 creatures vanquished.
+
+Vanquished Creatures (others)
+  A withered plant (D:1)
+1 creature vanquished.
+
+Grand Total: 52 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Buttons840 the Hill Orc Berserker began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+    19 | D:1      | Found a faded altar of an unknown god.
+    41 | D:1      | Reached XP level 2. HP: 23/27 MP: 2/2
+   186 | D:1      | Found Nebud's Jewellery Emporium.
+   389 | D:1      | Found Pinid's Distillery.
+   416 | D:1      | Bought a potion of degeneration for 11 gold pieces
+   470 | D:1      | Reached XP level 3. HP: 33/33 MP: 3/3
+   473 | D:1      | Found Naoss's Weapon Shop.
+   691 | D:1      | Reached ** piety under Trog
+   857 | D:2      | Reached skill level 5 in Axes
+  1042 | D:2      | Identified the +2 robe "Vipsivvo" {rPois rF+ rC-}
+  1638 | D:3      | Found a hazy altar of Hepliaklqana.
+  1661 | D:3      | Reached XP level 4. HP: 34/41 MP: 4/4
+  1955 | D:3      | Found a burning altar of Makhleb.
+  2063 | D:3      | Reached skill level 1 in Shields
+  2434 | D:3      | Reached XP level 5. HP: 39/47 MP: 5/5
+  2878 | D:1      | Bought a potion of attraction for 33 gold pieces
+  2878 | D:1      | Bought a potion of curing for 33 gold pieces
+  2878 | D:1      | Bought a potion of brilliance for 44 gold pieces
+  3079 | D:4      | Noticed a water moccasin
+  3090 | D:4      | HP: 1/47 [water moccasin (4)]
+  3091 | D:4      | Succumbed to a water moccasin's poison
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      heliophobic_arrival_battle_scene, layout_basic, serial_shops,
+          nicolae_shop_waterfront, nicolae_shop_trees,
+          nicolae_shop_hallway_plus, ebering_ecumenical_altar_petrified
+D:2:      minmay_evil_eye, layout_basic
+D:3:      layout_loops_ring, mainiacjoe_overflow_catwalk,
+          mainiacjoe_overflow_six_doors_small
+D:4:      layout_loops_ring, corner_web_ring, nicolae_specific_store, hex_tiny,
+          nicolae_take_the_stairs, goddamned_bats, uniq_robin
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Fighting       |     4       |  4.5
+Axes           |        5    |  5.7
+Shields        |           1 |  1.3
+Armour         |             |  2.9
+Dodging        |             |  1.6
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Hand axe          |    76 |    90 ||   166
+       Punch             |     1 |       ||     1
+Invok: Berserk           |     1 |     1 ||     2
+       Trog's Hand       |       |     2 ||     2
+ Stab: Sleeping          |     1 |       ||     1
+Armor: Animal skin       |     3 |       ||     3
+       Chain mail        |    23 |    44 ||    67
+Dodge: Dodged            |    22 |    11 ||    33
+Block: Tower shield      |    21 |   102 ||   123
+

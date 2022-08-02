@@ -1,0 +1,199 @@
+ Dungeon Crawl Stone Soup version 0.28.0-53-g5a82cb2 (webtiles) character file.
+
+Game seed: 12015114597988531692
+
+8 Buttons840 the Chopper (level 2, -8/27 HPs)
+             Began as a Hill Orc Berserker on Aug 1, 2022.
+             Was a Follower of Trog.
+             Mangled by Sigmund
+             ... wielding a +5 scythe of protection
+              (15 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:12:33 (1030 turns).
+
+Buttons840 the Chopper (Hill Orc Berserker)         Turns: 1030, Time: 00:12:34
+
+Health: -8/27      AC:  3    Str: 19    XL:     2   Next: 8%
+Magic:  2/2        EV: 11    Int:  7    God:    Trog [*.....]
+Gold:   47         SH:  0    Dex: 10    Spells: 1/1 levels left
+
+rFire   . . .      SeeInvis .   a - +0 hand axe
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   c - +0 leather armour
+rPois   .          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   ..........              (no amulet)
+HPRegen 0.09/turn               (no ring)
+MPRegen 0.08/turn               (no ring)
+
+@: confused
+A: no striking features
+a: Renounce Religion, Berserk
+
+
+You were on level 2 of the Dungeon.
+You worshipped Trog.
+Trog was aware of your devotion.
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 47 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 hand axe (weapon)
+Missiles
+ f - 25 stones (quivered)
+Armour
+ b - a +0 animal skin
+ c - a +0 leather armour (worn)
+Jewellery
+ h - the ring "Zoritzaa" {rN+ rCorr Int+6 Slay-4 SInv}
+   (You found it on level 2 of the Dungeon)   
+   
+   [ring of intelligence]
+   
+   Int:       It affects your intelligence (+6).
+   Slay:      It affects your accuracy & damage with ranged weapons and melee
+   (-4).
+   rN:        It protects you from negative energy.
+   SInv:      It lets you see invisible.
+   rCorr:     It protects you from acid and corrosion.
+Scrolls
+ d - a scroll of fog {unknown}
+ e - a scroll of vulnerability {unknown}
+ g - a scroll of amnesia {unknown}
+Potions
+ i - a potion of degeneration {unknown}
+
+
+   Skills:
+ + Level 3.9 Fighting
+ + Level 4.3 Axes
+ + Level 2.3 Armour
+ + Level 1.6 Dodging
+
+
+You had one spell level left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Summon Forest            Summ/Tloc      0%         N/A       100%        5
+ Eringya's Noxious Bog    Tmut/Pois      0%         N/A       100%        6
+ Summon Hydra             Summ           0%         N/A       100%        7
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+Hepliaklqana
+
+Annotations:
+D:2 Sigmund
+
+Message History
+
+You kill the endoplasm!
+Trog accepts your kill.
+You have reached level 2!
+Found a faded altar of an unknown god.
+h - the ring "Zoritzaa" {rN+ rCorr Int+6 Slay-4 SInv}
+Found 22 arrows.
+i - a fizzy green potion
+Found a stone staircase leading up.
+You now have 47 gold pieces (gained 11).
+A quokka comes into view.
+Press: ? - help, v - describe, . - travel
+Here: a quokka
+The floor.
+Unknown command.
+Unknown command.
+Found a murky white potion.
+You slash the quokka!
+You kill the quokka!
+Trog accepts your kill.
+Sigmund the Dreaded comes into view. He is wielding a +5 scythe of protection.
+Sigmund shouts!
+A goblin comes into view. It is wielding a +0 dagger.
+Sigmund breathes a few words.
+Sigmund's hands start flickering wildly.
+Sigmund hits you from afar with a +5 scythe of protection!
+Sigmund mumbles some strange words.
+Sigmund flickers and vanishes!
+Deactivating autopickup; reactivate with Ctrl-A.
+A puff of flame appears from out of thin air!
+The puff of flame hits you!
+* * * LOW HITPOINT WARNING * * *
+You are confused.
+There is a stone staircase leading up here.
+In your confused state, you trip and fall back down the stairs.
+* * * LOW HITPOINT WARNING * * *
+In your confused state, you trip and fall back down the stairs.
+* * * LOW HITPOINT WARNING * * *
+Something hits you!
+Ouch! That really hurt!
+You die...
+
+          ########
+          #......#
+          #......#
+          #......#
+          #......#
+          #......#
+       ####.....@#
+       #.........#
+       #.#....g..#
+###### #...##..###
+#.._.###..##...#
+.....##...##..##
+..⌠.....#(##..#
+....#####.##.†#
+....#  #..##..####..
+
+
+You could see a goblin.
+
+Vanquished Creatures
+  2 ball pythons (D:1)
+  An endoplasm (D:2)
+  A goblin (D:2)
+  A hobgoblin (D:1)
+  A quokka (D:2)
+  A frilled lizard (D:1)
+7 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Buttons840 the Hill Orc Berserker began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+   949 | D:2      | Found a hazy altar of Hepliaklqana.
+   987 | D:2      | Reached XP level 2. HP: 27/27 MP: 2/2
+   987 | D:2      | Found a faded altar of an unknown god.
+   990 | D:2      | Identified the ring "Zoritzaa" {rN+ rCorr Int+6 Slay-4
+                  | SInv}
+  1016 | D:2      | Noticed Sigmund
+  1030 | D:2      | Mangled by Sigmund
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      eino_arrival_cavern_a, layout_rooms, serial_shops, shop_statue
+D:2:      layout_rooms, basic_altar, ebering_ecumenical_altar_abandoned,
+          minmay_crystal_room, kennysheep_flooded_box, uniq_natasha,
+          uniq_sigmund
+
+Action                   || total
+-------------------------++-------
+Melee: Hand axe          ||    23
+ Stab: Sleeping          ||     1
+Armor: Leather armour    ||     8
+Dodge: Dodged            ||    24
+

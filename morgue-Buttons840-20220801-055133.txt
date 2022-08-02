@@ -1,0 +1,397 @@
+ Dungeon Crawl Stone Soup version 0.28.0-53-g5a82cb2 (webtiles) character file.
+
+Game seed: 8357912278185535398
+
+6783 Buttons840 the Cleaver (level 10, -3/136 HPs)
+             Began as a Minotaur Berserker on July 31, 2022.
+             Was a Priest of Trog.
+             Slain by a skeletal warrior
+             ... wielding a +2 vorpal battleaxe
+             ... led by a skeletal warrior
+              (14 damage)
+             ... on level 8 of the Dungeon on Aug 1, 2022.
+             The game lasted 04:52:05 (10009 turns).
+
+Buttons840 the Cleaver (Minotaur Berserker)        Turns: 10009, Time: 04:52:18
+
+Health: -3/136     AC: 21    Str: 26    XL:     10   Next: 76%
+Magic:  9/9        EV: 13    Int:  8    God:    Trog [***...]
+Gold:   303        SH:  0    Dex: 10    Spells: 9/9 levels left
+
+rFire   . . .      SeeInvis .   F - +1 war axe (flame)
+rCold   . . .      Faith    .   (no shield)
+rNeg    + . .      Spirit   .   A - +0 plate armour
+rPois   +          Reflect  .   (helmet restricted)
+rElec   .          Harm     .   b - +1 cloak of the Other Side {-Tele Rampage rPois Str-4}
+rCorr   .          Rampage  +   k - +2 pair of gloves of Bitterness {Will++ Str+4 Int+4}
+Will    ++...      NoTele   +   (no boots)
+Stlth   ..........              p - amulet of regeneration
+HPRegen 1.12/turn               x - ring of positive energy
+MPRegen 0.11/turn               C - +4 ring of evasion
+
+@: berserking, studying Armour, very quick
+A: horns 2, retaliatory headbutt
+a: Renounce Religion, Berserk, Trog's Hand
+
+
+You were on level 8 of the Dungeon.
+You worshipped Trog.
+Trog was most pleased with you.
+You visited 1 branch of the dungeon, and saw 9 of its levels.
+
+You collected 303 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 vorpal hand axe
+ r - a +0 mace of protection
+ B - a +3 morningstar of protection
+ F - a +1 war axe of flaming (weapon)
+Missiles
+ c - 213 stones (quivered)
+ z - 2 throwing nets
+Armour
+ b - the +1 cloak of the Other Side (worn) {-Tele Rampage rPois Str-4}
+   (You found it on level 4 of the Dungeon)   
+   
+   Str:       It affects your strength (-4).
+   rPois:     It protects you from poison.
+   -Tele:     It prevents most forms of teleportation.
+   Rampage:   It bestows one free step when moving towards enemies.
+ k - the +2 pair of gloves of Bitterness (worn) {Will++ Str+4 Int+4}
+   (You found it on level 2 of the Dungeon)   
+   
+   Str:       It affects your strength (+4).
+   Int:       It affects your intelligence (+4).
+   Will:      It greatly increases your willpower.
+ A - a +0 plate armour (worn)
+Jewellery
+ p - an amulet of regeneration (around neck)
+ v - an amulet of magic regeneration
+ x - a ring of positive energy (left hand)
+ C - a +4 ring of evasion (right hand)
+Wands
+ g - a wand of acid (8)
+ n - a wand of paralysis (9)
+ o - a wand of iceblast (22)
+ s - a wand of polymorph (9)
+ y - a wand of mindburst (17)
+ D - a wand of flame (21)
+Scrolls
+ d - a scroll of identify
+ h - 2 scrolls of teleportation
+ i - 2 scrolls of immolation
+Potions
+ e - 2 potions of curing
+ f - 2 potions of might
+ j - a potion of heal wounds {unknown}
+ m - a potion of attraction {unknown}
+ q - a potion of mutation {unknown}
+ t - a potion of resistance
+ w - a potion of flight {unknown}
+
+
+   Skills:
+ + Level 9.3 Fighting
+ + Level 13.3 Axes
+ + Level 12.5 Armour
+ + Level 4.4 Dodging
+
+
+You had 9 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Beastly Appendage        Tmut           0%         N/A       98%         1
+ Blink                    Tloc           0%         N/A       99%         2
+ Corpse Rot               Necr/Air       0%         N/A       99%         2
+ Ensorcelled Hibernation  Hex/Ice        0%         N/A       99%         2
+ Passwall                 Tmut/Erth      0%         N/A       99%         2
+ Poisonous Vapours        Pois/Air       0%         N/A       99%         2
+ Scorch                   Fire           0%         2d5       99%         2
+ Wereblood                Tmut           0%         N/A       99%         2
+ Gell's Gravitas          Tloc           0%         N/A       100%        3
+ Inner Flame              Hex/Fire       0%         N/A       100%        3
+ Lesser Beckoning         Tloc           0%         N/A       100%        3
+ Portal Projectile        Hex/Tloc       0%         N/A       100%        3
+ Spider Form              Tmut/Pois      0%         N/A       100%        3
+ Swiftness                Air            0%         N/A       100%        3
+ Teleport Other           Tloc           0%         N/A       100%        3
+ Anguish                  Hex/Necr       0%         N/A       100%        4
+ Cause Fear               Hex            0%         N/A       100%        4
+ Flame Wave               Conj/Fire      0%         2d4       100%        4
+ Blade Hands              Tmut           0%         N/A       100%        5
+ Excruciating Wounds      Necr           0%         N/A       100%        5
+ Manifold Assault         Tloc           0%         N/A       100%        5
+ Dispersal                Tloc           0%         N/A       100%        6
+ Summon Cactus Giant      Summ           0%         N/A       100%        6
+ Storm Form               Tmut/Air       0%         N/A       100%        7
+ Discord                  Hex            0%         N/A       100%        8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (9/15)             Temple (0/1) D:6         
+  Lair: D:8-11         Orc: D:9-12      
+
+Altars:
+Cheibriados
+The Shining One
+
+Shops:
+D:1 !*
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+You slash the skeletal warrior! You burn the skeletal warrior.
+Your headbutt misses the skeletal warrior.
+The skeletal warrior is moderately damaged.
+You hit the skeletal warrior but do no damage.
+The skeletal warrior hits you but does no damage.
+The skeletal warrior hits you with a +2 vorpal battleaxe.
+You barely miss the skeletal warrior.
+The skeletal warrior is moderately damaged.
+You barely miss the skeletal warrior.
+You hit the skeletal warrior. You burn the skeletal warrior.
+The skeletal warrior is heavily damaged.
+You closely miss the skeletal warrior.
+The skeletal warrior hits you with a +0 hand axe!
+The skeletal warrior hits you but does no damage.
+You closely miss the skeletal warrior. You headbutt the skeletal warrior.
+The skeletal warrior is heavily damaged.
+You barely miss the skeletal warrior.
+You hit the skeletal warrior. You burn the skeletal warrior.
+You headbutt the skeletal warrior.
+The skeletal warrior is heavily damaged.
+You hit the skeletal warrior but do no damage.
+The skeletal warrior hits you but does no damage.
+The skeletal warrior hits you with a +2 vorpal battleaxe.
+You barely miss the skeletal warrior. You headbutt the skeletal warrior.
+The skeletal warrior is heavily damaged.
+You slash the skeletal warrior! You burn the skeletal warrior.
+The skeletal warrior hits you but does no damage.
+You hit the skeletal warrior but do no damage.
+The skeletal warrior is heavily damaged.
+You slash the skeletal warrior! You burn the skeletal warrior.
+The skeletal warrior hits you with a +2 vorpal battleaxe!
+* * * LOW HITPOINT WARNING * * * x2
+You slash the skeletal warrior! You burn the skeletal warrior.
+You headbutt the skeletal warrior!
+The skeletal warrior is severely damaged.
+You hit the skeletal warrior but do no damage.
+The skeletal warrior hits you with a +0 hand axe!
+* * * LOW HITPOINT WARNING * * *
+The skeletal warrior hits you with a +2 vorpal battleaxe!
+You die...
+
+              ############
+              #..[.......#
+              #.###.####.#
+              #.##...###.######
+              #.#..............
+         ######.##...###.......
+         #..........####.###...
+ #########.####.###.#.....##...
+ #..........##@..##............
+ #.#######..##zz.##...##.......
+ #.#     #...................#.
+ #.#    ##................#?##.
+ #.#    #............)##..#.##.
+ #.#    #.#............#..#)###
+ #.#    #.####....##......#[###
+ #.#    #.#  ##.#>##..#.#.#[#..
+##.##   #.#   #.#.##.##.#.#).##
+
+
+You could see 2 skeletal warriors.
+
+Vanquished Creatures
+  A two-headed ogre (D:6)
+  A skeletal warrior (D:8)
+  Pikel (D:8)
+  Joseph (D:7)
+  Sigmund (D:4)
+  A wyvern (D:8)
+  2 yaks
+  A steam dragon (D:8)
+  An acid dragon (D:8)
+  3 water moccasins
+  7 orc warriors
+  3 ice beasts
+  2 sky beasts
+  8 ogres
+  3 centaurs (D:6)
+  2 lemures (D:8)
+  A kobold brigand (D:8)
+  2 bullfrogs
+  2 gnoll sergeants
+  A wyvern zombie (D:7)
+  A scorpion (D:5)
+  A water moccasin zombie (D:5)
+  A wyvern skeleton (D:7)
+  A water moccasin skeleton (D:3)
+  A howler monkey (D:8)
+  A bullfrog zombie (D:6)
+  A crimson imp (D:3)
+  Crazy Yiuf (D:3)
+  An iron imp (D:6)
+  A jelly (D:8)
+  A gnoll shaman (D:7)
+  4 orc priests
+  3 bullfrog skeletons
+  3 hounds
+  5 iguanas
+  Terence (D:2)
+  Ijyb (D:4)
+  4 orc wizards
+  A howler monkey zombie (D:8)
+  8 gnolls
+  12 adders
+  2 shadow imps
+  3 white imps
+  A worm (D:3)
+  4 dart slugs
+  24 orcs
+  9 ball pythons
+  4 endoplasms
+  3 giant cockroaches
+  8 hobgoblins
+  4 bats (D:2)
+  2 frilled lizards
+  6 goblins
+  2 goblin skeletons (D:3)
+  A goblin zombie (D:3)
+  2 hobgoblin zombies (D:3)
+  6 kobolds
+  A kobold skeleton (D:3)
+  A kobold zombie (D:3)
+  An orc zombie (D:3)
+  6 rats
+187 creatures vanquished.
+
+Vanquished Creatures (others)
+  7 plants (D:4)
+  A withered plant (D:3)
+8 creatures vanquished.
+
+Grand Total: 195 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Buttons840 the Minotaur Berserker began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   141 | D:1      | Found Odue's General Store.
+   235 | D:1      | Found Yluinex's Distillery.
+   662 | D:1      | Reached XP level 2. HP: 27/27 MP: 1/1
+   663 | D:1      | Reached skill level 4 in Axes
+  1286 | D:2      | Identified the +2 pair of gloves of Bitterness {Will++
+                  | Str+4 Int+4}
+  1335 | D:2      | You fall into a shaft and drop 2 floors!
+  1529 | D:4      | Reached XP level 3. HP: 22/33 MP: 2/2
+  1628 | D:4      | Noticed a sky beast
+  1699 | D:4      | Killed a sky beast
+  1700 | D:4      | Reached skill level 5 in Axes
+  1700 | D:4      | Reached XP level 4. HP: 34/41 MP: 3/3
+  1814 | D:4      | Reached XP level 5. HP: 46/47 MP: 4/4
+  1949 | D:4      | Noticed Ijyb
+  1980 | D:4      | Killed Ijyb
+  2187 | D:4      | Reached skill level 5 in Fighting
+  2189 | D:4      | Identified the +1 cloak of the Other Side {-Tele Rampage
+                  | rPois Str-4}
+  2732 | D:4      | Reached XP level 6. HP: 48/56 MP: 5/5
+  2734 | D:4      | Reached ** piety under Trog
+  2735 | D:4      | Reached skill level 6 in Axes
+  2883 | D:4      | Noticed Sigmund
+  2892 | D:4      | Killed Sigmund
+  2893 | D:4      | Reached skill level 5 in Armour
+  3351 | D:2      | Reached XP level 7. HP: 61/61 MP: 6/6
+  3627 | D:2      | Noticed Terence
+  3640 | D:2      | Killed Terence
+  3641 | D:2      | Reached skill level 7 in Axes
+  4035 | D:3      | Found a faded altar of an unknown god.
+  4283 | D:3      | Found a runed translucent door.
+  4284 | D:3      | Noticed Crazy Yiuf
+  4647 | D:3      | Found a glowing golden altar of the Shining One.
+  4814 | D:3      | Killed Crazy Yiuf
+  4916 | D:5      | Entered Level 5 of the Dungeon
+  5212 | D:5      | Reached skill level 8 in Axes
+  5212 | D:5      | Reached XP level 8. HP: 44/70 MP: 7/7
+  5501 | D:5      | Reached skill level 9 in Axes
+  6087 | D:6      | Reached *** piety under Trog
+  6088 | D:6      | Reached XP level 9. HP: 74/79 MP: 8/8
+  6136 | D:6      | Found a staircase to the Ecumenical Temple.
+  6165 | D:6      | Noticed a two-headed ogre
+  6349 | D:6      | Killed a two-headed ogre
+  6350 | D:6      | Reached skill level 10 in Axes
+  6598 | D:6      | Found a snail-covered altar of Cheibriados.
+  7238 | D:7      | Reached skill level 11 in Axes
+  7238 | D:7      | Reached skill level 10 in Armour
+  7557 | D:7      | Noticed Joseph
+  7758 | D:6      | Reached XP level 10. HP: 69/88 MP: 9/9
+  7843 | D:7      | Killed Joseph
+  8101 | D:7      | Identified a scroll of acquirement
+  8102 | D:7      | Acquired a manual of Armour
+  8252 | D:8      | Reached skill level 12 in Axes
+  9021 | D:2      | Identified the +9 dagger "Huismix" {pain, MP+9 Str+8}
+  9291 | D:8      | Noticed Pikel
+  9313 | D:8      | Killed Pikel
+  9505 | D:8      | Reached skill level 13 in Axes
+  9810 | D:9      | Noticed a skeletal warrior
+  9812 | D:9      | Noticed a skeletal warrior
+  9813 | D:9      | Noticed a skeletal warrior
+  9819 | D:9      | Noticed a skeletal warrior
+  9822 | D:9      | Noticed a skeletal warrior
+  9833 | D:8      | Killed a skeletal warrior
+ 10009 | D:8      | Slain by a skeletal warrior
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      amcnicky_arrival_feature_with_door, layout_basic, serial_shops, shop,
+          nicolae_square_shop, st_stairs_10
+D:2:      layout_basic, uniq_terence
+D:3:      layout_loops_ring, nicolae_tso_besieged_by_evil,
+          ebering_ecumenical_altar_petrified, kennysheep_minor_cross,
+          chequers_serial_rivers_large_b, uniq_crazy_yiuf_cottage
+D:4:      layout_basic, serial_bayou_lagoon_b, uniq_sigmund, uniq_ijyb
+D:5:      kennysheep_big_flooded_room, layout_basic, chequers_jeans,
+          nrook_mini_backslash, st_stairs_2, minivault_23, hex_large
+D:6:      layout_cave_pools, slow_altar_1, minmay_temple_entry_offerings,
+          nicolae_figureground_pulse
+D:7:      layout_rooms, st_stairs_5, uniq_joseph
+D:8:      layout_loops_ring, st_stairs_6, uniq_pikel
+D:9:      layout_basic, nzn_overflow_gifts_of_might_and_magic, serial_shops,
+          shop_fountains, hangedman_decor_growths
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Axes           |     4  5        6  8  9 11 13 | 13.3
+Fighting       |     4        5     6  7  8  9 |  9.3
+Armour         |     3        4  5  6  8 10 12 | 12.5
+Dodging        |                    3     4    |  4.4
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Hand axe          |    69 |   111 |   370 |   161 ||   711
+       Headbutt          |     2 |    17 |    64 |    36 ||   119
+       Punch             |       |       |     5 |     1 ||     6
+       War axe           |       |       |       |    19 ||    19
+Throw: Stone             |       |       |     2 |       ||     2
+Invok: Berserk           |       |       |     2 |     6 ||     8
+  Use: Scroll            |       |       |     3 |     6 ||     9
+Armor: Chain mail        |    37 |    54 |   127 |       ||   218
+       Plate armour      |       |       |    19 |    67 ||    86
+       Skin              |       |       |     1 |       ||     1
+Dodge: Dodged            |    25 |    37 |   153 |    59 ||   274
+
