@@ -1,0 +1,257 @@
+ Dungeon Crawl Stone Soup version 0.28.0-53-g5a82cb2 (webtiles) character file.
+
+Game seed: 1628324518347591018
+
+163 Buttons840 the Firebug (level 5, 0/35 HPs)
+             Began as a Human Fire Elementalist on Aug 3, 2022.
+             Succumbed to a scorpion's poison
+             ... on level 4 of the Dungeon.
+             The game lasted 00:36:25 (3647 turns).
+
+Buttons840 the Firebug (Human Fire Elementalist)    Turns: 3647, Time: 00:36:26
+
+Health: 0/35       AC:  8    Str:  7 (9)  XL:     5   Next: 72%
+Magic:  2/9        EV: 11    Int: 15 (17) God:    
+Gold:   96         SH:  0    Dex: 11 (13) Spells: 4/10 levels left
+
+rFire   . . .      SeeInvis .   f - +0 dagger
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   b - +0 leather armour
+rPois   .          Reflect  .   (helmet restricted)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   e - +0 pair of boots
+Stlth   ++........              (no amulet)
+HPRegen 0.11/turn               (no ring)
+MPRegen 0.11/turn               (no ring)
+
+@: lethally poisoned (0 -> -5)
+A: claws 1, horns 1, iridescent scales 2
+a: no special abilities
+
+
+You were on level 4 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 161 gold pieces.
+You spent 65 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ f - a +0 dagger (weapon)
+Armour
+ a - a +0 robe
+ b - a +0 leather armour (worn)
+ e - a +0 pair of boots (worn)
+ n - a +0 helmet
+Scrolls
+ d - 3 scrolls of noise {unknown}
+ g - 3 scrolls of identify {unknown}
+ h - a scroll of magic mapping {unknown}
+ j - a scroll of enchant armour {unknown}
+ k - a scroll of holy word {unknown}
+ m - a scroll of fog
+Potions
+ l - a potion of flight
+
+
+   Skills:
+ + Level 0.2 Fighting
+ + Level 1.0 Armour
+ + Level 2.2 Dodging
+ + Level 2.2 Stealth
+ + Level 3.2 Spellcasting
+ + Level 1.9 Conjurations
+ + Level 4.3 Fire Magic
+
+
+You had 4 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      44%        2x1d6     8%          1
+b - Scorch                Fire           30%        2d6       7%          2
+c - Conjure Flame         Conj/Fire      11%        6-21      24%         3
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Inner Flame              Hex/Fire       8%         N/A       34%         3
+ Blink                    Tloc           4%         N/A       41%         2
+ Corpse Rot               Necr/Air       4%         N/A       41%         2
+ Flame Wave               Conj/Fire      11%        2d5       61%         4
+ Lesser Beckoning         Tloc           2%         N/A       65%         3
+ Dispel Undead            Necr           2%         3d7       96%         4
+ Manifold Assault         Tloc           2%         N/A       100%        5
+ Death Channel            Necr           1%         N/A       100%        6
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+
+Shops:
+D:3 *
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have sharp fingernails.
+You have a pair of small horns on your head.
+You are mostly covered in iridescent scales. (AC +4)
+
+Message History
+
+The scorpion poisons you!
+You feel very sick.
+You conjure some foxfire! You feel sick.
+The scorpion stings you but does no damage.
+The orc hits you but does no damage.
+The orc hits your foxfire with a +0 vampiric hand axe.
+Your foxfire dissipates!
+You feel sick. The foxfire hits the scorpion.
+The scorpion is moderately wounded.
+You feel sick.
+You feel sick. The scorpion barely misses you.
+You feel sick.
+You feel sick.
+You feel sick.
+You are no longer poisoned.
+Casting: Foxfire (safe; 6% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the orc.
+You kill the orc!
+The scorpion stings you.
+The scorpion stings you.
+You are poisoned.
+The scorpion poisons you!
+You feel very sick.
+You feel sick.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+It was a potion of mutation. You feel extremely strange.
+Iridescent scales grow over part of your body.
+Your fingernails lengthen.
+Iridescent scales spread over more of your body.
+A pair of horns grows on your head!
+Your +0 helmet falls away!
+* * * LOW HITPOINT WARNING * * *
+You feel sick. The scorpion stings you.
+* * * LOW HITPOINT WARNING * * *
+It was a potion of degeneration.
+There was something very wrong with that liquid.
+You feel weakened. You feel dopey. You feel clumsy.
+You die...
+
+                   #.#####)#
+                   #.#...#.#
+                   #.#.#.#.#
+                   #.#.#.#.#
+                   #.)<†.#.#
+                   #######.#
+                   #...).#.###
+####################.###.#...#
+)...........5.5s@...)...>###.#
+####################.##### #.#
+                   #.#     #.#
+                   #.#     #.#
+                   #.#     #.#
+                   #.#     #.#
+                   #.#     #.#
+                   #.#     #.#
+                   #.#     #.#
+
+
+You could see 2 lemures and a scorpion.
+
+Vanquished Creatures
+  A jelly (D:4)
+  A hound (D:4)
+  An orc wizard (D:4)
+  3 adders
+  8 orcs
+  2 bats (D:2)
+  3 endoplasms
+  A giant cockroach (D:1)
+  8 goblins
+  3 hobgoblins
+  4 jackals
+  4 kobolds
+  A quokka (D:1)
+  A frilled lizard (D:2)
+  2 rats
+43 creatures vanquished.
+
+Vanquished Creatures (others)
+  137 foxfires
+137 creatures vanquished.
+
+Grand Total: 180 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Buttons840 the Human Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   334 | D:1      | Reached XP level 2. HP: 19/19 MP: 3/5
+   395 | D:1      | Found a faded altar of an unknown god.
+  1127 | D:2      | Reached XP level 3. HP: 24/24 MP: 0/6
+  1485 | D:2      | Learned a level 2 spell: Scorch
+  1902 | D:3      | Noticed a phantom
+  2174 | D:3      | Reached XP level 4. HP: 30/30 MP: 0/7
+  2428 | D:3      | Found Elebab's General Store.
+  2483 | D:3      | Bought a potion of flight for 39 gold pieces
+  2483 | D:3      | Bought a scroll of fog for 26 gold pieces
+  2710 | D:3      | Learned a level 3 spell: Conjure Flame
+  2740 | D:4      | Reached skill level 4 in Fire Magic
+  3121 | D:3      | Reached XP level 5. HP: 23/35 MP: 1/9
+  3603 | D:4      | Noticed a lemure
+  3603 | D:4      | Noticed a lemure
+  3606 | D:4      | Reached skill level 1 in Armour
+  3646 | D:4      | Gained mutation: You are partially covered in iridescent
+                  | scales. (AC +2) [potion of mutation]
+  3646 | D:4      | Gained mutation: You have sharp fingernails. [potion of
+                  | mutation]
+  3646 | D:4      | Gained mutation: You are mostly covered in iridescent
+                  | scales. (AC +4) [potion of mutation]
+  3646 | D:4      | Gained mutation: You have a pair of small horns on your
+                  | head. [potion of mutation]
+  3646 | D:4      | HP: 1/35 [scorpion (6)]
+  3647 | D:4      | Succumbed to a scorpion's poison
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      lightli_arrival_farm, layout_rooms,
+          hellmonk_ecumenical_altar_heavens_door
+D:2:      minmay_general_purpose_star, layout_rooms
+D:3:      layout_loops_ring, serial_shops, nicolae_diamond_shop,
+          guppyfry_early_lair_pool
+D:4:      layout_basic, uniq_pikel
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Fire Magic     |           4    |  4.3
+Spellcasting   |              3 |  3.2
+Armour         |              1 |  1.0
+Fighting       |                |  0.2
+Dodging        |                |  2.2
+Stealth        |                |  2.2
+Conjurations   |                |  1.9
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Dagger            |     2 |     8 ||    10
+ Cast: Foxfire           |    60 |    29 ||    89
+       Scorch            |     3 |    16 ||    19
+       Conjure Flame     |       |     3 ||     3
+  Use: Potion            |       |     2 ||     2
+Armor: Leather armour    |     4 |    31 ||    35
+Dodge: Dodged            |     5 |    45 ||    50
+
