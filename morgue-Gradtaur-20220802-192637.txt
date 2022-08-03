@@ -1,0 +1,540 @@
+ Dungeon Crawl Stone Soup version 0.28.0 (tiles) character file.
+
+Game seed: 5311457596496685808
+
+37744 Gradtaur the Bludgeoner (level 13, -4/87 HPs)
+             Began as a Gargoyle Berserker on Aug 1, 2022.
+             Was an Elder of Trog.
+             Slain by an anaconda (13 damage)
+             ... on level 1 of the Snake Pit on Aug 2, 2022.
+             The game lasted 03:27:01 (22737 turns).
+
+Gradtaur the Bludgeoner (Gargoyle Berserker)       Turns: 22737, Time: 03:27:02
+
+Health: -4/87      AC: 34    Str: 30    XL:     13   Next: 98%
+Magic:  0/13       EV:  9    Int: 13    God:    Trog [****..]
+Gold:   305        SH:  0    Dex: 15    Spells: 12/12 levels left
+
+rFire   . . .      SeeInvis .   t - +2 mace (venom)
+rCold   . . .      Faith    .   (no shield)
+rNeg    + . .      Spirit   +   s - +5 chain mail {Will+}
+rPois   ?           Reflect  .   K - +0 helmet {Int+3}
+rElec   +          Harm     .   I - +0 cloak
+rCorr   .          Rampage  .   T - +2 pair of gloves
+Will    +++..                   (no boots)
+Stlth   ..........              x - amulet of guardian spirit
+HPRegen 1.24/turn               q - +6 ring of dexterity
+MPRegen 0.13/turn               d - +6 ring of strength
+
+@: strong-willed, on berserk cooldown, regenerating, slowed, constricted, very
+slow
+A: sickness immunity, AC +9, negative energy resistance 1, electricity
+resistance, torment resistance 1, petrification resistance, fangs 1, talons 1
+a: Renounce Religion, Berserk, Trog's Hand, Brothers in Arms
+
+
+You were on level 1 of the Snake Pit.
+You worshipped Trog.
+Trog was greatly pleased with you.
+You visited 5 branches of the dungeon, and saw 16 of its levels.
+
+You collected 862 gold pieces.
+You spent 557 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ t - a +2 mace of venom (weapon)
+ M - a +3 whip
+ N - a +2 flail of protection
+ Y - a +1 falchion of holy wrath
+Missiles
+ C - 48 poisoned darts (quivered)
+ L - a curare-tipped dart
+ V - a throwing net
+Armour
+ n - a +0 pair of boots
+ s - a +5 chain mail of willpower (worn)
+ E - the +0 ring mail "Agiutsotuxu" {+Inv Will+}
+   (You found it on level 6 of the Dungeon)   
+   
+   +Inv:      It lets you turn invisible.
+   Will:      It increases your willpower.
+ I - a +0 cloak (worn)
+ K - a +0 helmet of intelligence (worn)
+ T - a +2 pair of gloves (worn)
+Jewellery
+ d - a +6 ring of strength (right hand)
+ p - an amulet of reflection
+ q - a +6 ring of dexterity (left hand)
+ v - a +6 ring of dexterity
+ w - a +4 ring of protection
+ x - an amulet of guardian spirit (around neck)
+ S - a +4 ring of evasion
+Wands
+ a - a wand of digging (7)
+ u - a wand of iceblast (7)
+ A - a wand of charming (5)
+ J - a wand of mindburst (21)
+Scrolls
+ c - 3 scrolls of torment
+ g - 7 scrolls of teleportation
+ j - 3 scrolls of blinking
+ r - 2 scrolls of fear {unknown}
+ Q - a scroll of immolation {unknown}
+ R - 3 scrolls of magic mapping
+ W - a scroll of silence {unknown}
+Potions
+ e - 4 potions of flight
+ f - a potion of curing
+ h - 2 potions of attraction
+ k - a potion of resistance
+ l - a potion of mutation
+ z - 2 potions of degeneration {unknown}
+ B - 2 potions of haste {unknown}
+ D - a potion of brilliance {unknown}
+ F - a potion of might
+ G - 2 potions of magic {unknown}
+ O - a potion of invisibility {unknown}
+ P - a potion of lignification {unknown}
+ U - a potion of heal wounds {unknown}
+Miscellaneous
+ o - a lightning rod (4/4)
+ X - a tin of tremorstones (2/2)
+
+
+   Skills:
+ + Level 12.4 Fighting
+ + Level 15.1 Maces & Flails
+ + Level 13.9 Armour
+ + Level 5.4 Dodging
+ + Level 3.2 Stealth
+ + Level 2.2 Shields
+ * Level 3.6 Unarmed Combat
+
+
+You had 12 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (10/15)            Temple (1/1) D:6            Lair (3/6) D:10
+ Shoals (1/4) Lair:3        Snake (1/4) Lair:3      
+   Orc: D:9-12      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:2 !   D:8 [   D:9 ?[((*
+
+Annotations:
+D:7 exclusion: statue
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to sickness and miasma.
+Your stone body is resilient. (AC +9)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You are resistant to unholy torment.
+You are immune to petrification.
+You have very sharp teeth.
+You have sharp toenails.
+
+Message History
+
+The anaconda bites you!
+* * * LOW HITPOINT WARNING * * *
+The anaconda constricts you.
+* * * LOW HITPOINT WARNING * * *
+The anaconda bites you but does no damage.
+Your skin crawls.
+You feel strong-willed.
+The anaconda bites you but does no damage.
+The anaconda constricts you. The anaconda bites you.
+* * * LOW HITPOINT WARNING * * *
+The anaconda barely misses you. The anaconda constricts you.
+A sea snake comes into view.
+The anaconda closely misses you. The anaconda bites you!
+* * * LOW HITPOINT WARNING * * *
+The anaconda constricts you.
+* * * LOW HITPOINT WARNING * * *
+The anaconda bites you but does no damage.
+You escape the anaconda's grasp.
+The sea snake hisses angrily.
+The anaconda grabs you.
+The anaconda bites you but does no damage.
+The anaconda constricts you.
+* * * LOW HITPOINT WARNING * * *
+The anaconda bites you but does no damage. x2
+The anaconda constricts you.
+You feel better.
+The anaconda bites you but does no damage.
+The anaconda closely misses you. The anaconda constricts you. The anaconda
+bites you!
+* * * LOW HITPOINT WARNING * * *
+The anaconda bites you but does no damage.
+The anaconda constricts you.
+The anaconda bites you but does no damage.
+The anaconda's grasp on you weakens, but your attempt to escape fails.
+The anaconda closely misses you. The anaconda constricts you.
+The anaconda bites you but does no damage.
+The anaconda barely misses you. The anaconda constricts you.
+The anaconda bites you but does no damage. x2
+The anaconda constricts you.
+You escape the anaconda's grasp. The anaconda grabs you. The anaconda bites
+you!
+You die...
+
+         .##.   #..
+          ...  #..
+       ####.###..
+        ...... .#
+         #...##.##
+.        #...#...#
+..##    ##...>.#.#
+#....## #...#..#.#
+......)##))S#....##
+#.......#)S.#.#...#
+.......)%##.S.##)(###
+.....#...##@..##....#
+.... ##..##...#...))#
+#..   .#.#....#...#.##
+..   #.....####...#..#
+#    #....#   ########
+     #....#
+      ....#
+     ....
+
+
+You could see a sea snake and 2 anacondas.
+
+Vanquished Creatures
+  A stone giant (D:9)
+  Harold (Lair:2)
+  2 naga warriors (Snake:1)
+  4 hydras
+  3 anacondas (Snake:1)
+  A two-headed ogre (D:9)
+  A death yak (Lair:3)
+  A death knight (D:9)
+  A naga sharpshooter (Snake:1)
+  A naga ritualist (Snake:1)
+  A wizard (D:9)
+  A mana viper (Snake:1)
+  A cyclops (D:7)
+  Joseph (D:9)
+  8 black mambas
+  6 elephants (Lair:2)
+  A naga mage (Snake:1)
+  A water nymph (Shoals:1)
+  A guardian serpent (Snake:1)
+  10 cane toads
+  2 rime drakes (Lair:1)
+  A torpor snail (Lair:3)
+  A gargoyle (D:10)
+  6 komodo dragons
+  A tengu conjurer (D:9)
+  2 trolls
+  A meliai (D:9)
+  2 merfolk (Shoals:1)
+  Grinder (D:3)
+  6 slime creatures (D:10)
+  2 wraiths
+  26 yaks
+  8 wyverns
+  4 basilisks
+  A fire bat (D:4)
+  A vampire mosquito (D:9)
+  6 nagas
+  An acid dragon (D:9)
+  8 water moccasins
+  2 ice beasts
+  9 orc warriors
+  An ogre (D:5)
+  5 wolves (Lair:2)
+  A boggart (D:9)
+  13 centaurs
+  4 kobold brigands
+  11 bullfrogs
+  A water moccasin zombie (D:5)
+  4 scorpions
+  A wyvern skeleton (D:6)
+  A killer bee (D:9)
+  An electric eel (Lair:3)
+  4 howler monkeys
+  A bullfrog zombie (D:6)
+  2 centaur zombies
+  A jelly (D:6)
+  5 orc priests
+  2 centaur skeletons
+  2 hounds (D:5)
+  2 gnoll shamans
+  2 bullfrog skeletons (D:6)
+  5 iguanas
+  6 orc wizards
+  6 hell rats (Lair:3)
+  2 hound skeletons
+  6 howler monkey zombies
+  9 gnolls
+  2 adders
+  A shadow imp (D:8)
+  A worm (D:5)
+  2 dart slugs
+  27 orcs
+  9 ball pythons
+  4 bats
+  5 endoplasms
+  6 giant cockroaches
+  4 goblins
+  16 hobgoblins
+  7 jackals
+  5 quokkas
+  3 frilled lizards
+  21 kobolds
+  6 rats
+  A bush (Lair:3)
+  A butterfly (D:6)
+357 creatures vanquished.
+
+Vanquished Creatures (others)
+  17 fungi
+  67 plants
+84 creatures vanquished.
+
+Grand Total: 441 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Gradtaur the Gargoyle Berserker began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 1/1
+   241 | D:1      | Reached XP level 2. HP: 17/19 MP: 2/2
+   912 | D:1      | Found a faded altar of an unknown god.
+   995 | D:1      | Reached XP level 3. HP: 24/24 MP: 3/3
+  1652 | D:2      | Reached ** piety under Trog
+  1931 | D:2      | Reached XP level 4. HP: 29/29 MP: 4/4
+  1990 | D:2      | Found Xecwejut's Distillery.
+  1994 | D:2      | Bought a potion of curing for 36 gold pieces
+  2248 | D:2      | Reached skill level 4 in Maces & Flails
+  2500 | D:3      | Noticed Grinder
+  2535 | D:3      | Killed Grinder
+  2536 | D:3      | Reached skill level 5 in Maces & Flails
+  2536 | D:3      | Reached XP level 5. HP: 28/34 MP: 5/5
+  2536 | D:3      | Reached XP level 6. HP: 33/39 MP: 6/6
+  2597 | D:3      | You fall into a shaft and drop 1 floor!
+  3371 | D:4      | Found a burning altar of Makhleb.
+  3371 | D:4      | Noticed a blizzard demon
+  3669 | D:4      | Noticed an orc warrior
+  3688 | D:4      | Killed an orc warrior
+  3689 | D:4      | Reached XP level 7. HP: 44/44 MP: 7/7
+  3698 | D:4      | Reached skill level 1 in Stealth
+  3807 | D:4      | Found a transporter.
+  3810 | D:4      | Noticed a fire bat
+  3882 | D:4      | Found a transporter.
+  4412 | D:3      | Reached skill level 6 in Maces & Flails
+  4721 | D:3      | Reached skill level 1 in Shields
+  5040 | D:4      | Killed a fire bat
+  5041 | D:4      | Reached skill level 5 in Fighting
+  5357 | D:5      | Entered Level 5 of the Dungeon
+  5385 | D:5      | Found a shadowy altar of Dithmenos.
+  5559 | D:5      | Reached XP level 8. HP: 49/49 MP: 8/8
+  5848 | D:5      | Reached skill level 7 in Maces & Flails
+  6181 | D:5      | Reached skill level 5 in Armour
+  6596 | D:6      | Reached skill level 8 in Maces & Flails
+  7038 | D:6      | Reached *** piety under Trog
+  7043 | D:6      | Reached XP level 9. HP: 45/54 MP: 6/9
+  7291 | D:6      | Found a staircase to the Ecumenical Temple.
+  7420 | D:6      | Identified the +0 ring mail "Agiutsotuxu" {+Inv Will+}
+  7470 | Temple   | Entered the Ecumenical Temple
+  7612 | D:7      | Noticed a cyclops
+  8281 | D:7      | Reached skill level 9 in Maces & Flails
+  8387 | D:7      | Found a glowing silver altar of Zin.
+  8388 | D:7      | Found a radiant altar of Vehumet.
+  9223 | D:8      | Found Educomuy's Armour Shop.
+  9226 | D:8      | Bought a +0 helmet of intelligence for 138 gold pieces
+  9313 | D:8      | Found a shimmering altar of Xom.
+  9313 | D:8      | Found a blossoming altar of Fedhas.
+ 10042 | D:9      | Noticed a tengu conjurer
+ 10067 | D:9      | Killed a tengu conjurer
+ 10068 | D:9      | Reached skill level 10 in Maces & Flails
+ 10226 | D:9      | Reached XP level 10. HP: 50/61 MP: 8/10
+ 10518 | D:9      | Found Puacsypet's Antique Weapon Boutique.
+ 10588 | D:9      | Bought a runed flail for 221 gold pieces
+ 10592 | D:9      | Found Gaqeefro's Weapon Emporium.
+ 10650 | D:9      | Found Cachiukh's Assorted Antiques.
+ 10658 | D:9      | Bought a smoky sapphire potion for 24 gold pieces
+ 10658 | D:9      | Bought a smoky white potion for 24 gold pieces
+ 10658 | D:9      | Bought a bubbling pink potion for 24 gold pieces
+ 10800 | D:9      | Noticed Joseph
+ 10803 | D:9      | Found a snail-covered altar of Cheibriados.
+ 10817 | D:9      | Killed Joseph
+ 10953 | D:9      | Found Hoitac's Antique Armour Shop.
+ 10964 | D:9      | Found a sparkling altar of Nemelex Xobeh.
+ 11434 | D:9      | Noticed a wizard
+ 11445 | D:9      | Killed a wizard
+ 11446 | D:9      | Reached skill level 11 in Maces & Flails
+ 11535 | D:9      | HP: 1/64 [orc warrior (8)]
+ 11904 | D:9      | Noticed a death knight
+ 11926 | D:9      | Killed a death knight
+ 11937 | D:9      | Reached XP level 11. HP: 29/68 MP: 4/11
+ 12059 | D:9      | Noticed a two-headed ogre
+ 12059 | D:9      | Noticed a stone giant
+ 12074 | D:9      | Killed a two-headed ogre
+ 12091 | D:9      | Killed a stone giant
+ 12701 | D:9      | Found Mosul's Magic Scroll Emporium.
+ 12704 | D:9      | Found a broken altar of Ashenzari.
+ 12709 | D:9      | Bought a scroll of teleportation for 45 gold pieces
+ 12709 | D:9      | Bought a scroll of teleportation for 45 gold pieces
+ 12808 | D:9      | Found Mosul's Magic Scroll Emporium.
+ 12811 | D:9      | Found a broken altar of Ashenzari.
+ 12928 | D:9      | Found Puacsypet's Antique Weapon Boutique.
+ 12938 | D:9      | Found Gaqeefro's Weapon Emporium.
+ 12968 | D:9      | Found Cachiukh's Assorted Antiques.
+ 13105 | D:9      | Found Hoitac's Antique Armour Shop.
+ 13117 | D:9      | Found a sparkling altar of Nemelex Xobeh.
+ 13687 | D:9      | Found a snail-covered altar of Cheibriados.
+ 13891 | D:7      | Found a hazy altar of Hepliaklqana.
+ 13892 | D:7      | Found a stormy altar of Qazlal.
+ 13965 | D:7      | Killed a cyclops
+ 13966 | D:7      | Reached skill level 12 in Maces & Flails
+ 13966 | D:7      | Reached skill level 10 in Armour
+ 14313 | D:10     | Entered Level 10 of the Dungeon
+ 14362 | D:10     | Found a staircase to the Lair.
+ 15100 | D:10     | Found a sacrificial altar of Ru.
+ 16400 | D:10     | Reached XP level 12. HP: 37/76 MP: 6/12
+ 16816 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 16882 | Lair:1   | Reached skill level 5 in Dodging
+ 17063 | Lair:1   | Found a basalt altar of Yredelemnul.
+ 17186 | Lair:1   | Reached skill level 13 in Maces & Flails
+ 17281 | Lair:1   | Reached skill level 10 in Fighting
+ 17630 | Lair:1   | You fall into a shaft and drop 1 floor!
+ 17761 | Lair:2   | Noticed Harold
+ 17787 | Lair:2   | Killed Harold
+ 17794 | Lair:2   | Noticed a four-headed hydra
+ 18209 | Lair:1   | Gained mutation: You tend to lose your temper in combat.
+                  | [potion of mutation]
+ 18209 | Lair:1   | Gained mutation: Armour fits poorly on your strangely
+                  | shaped body. [potion of mutation]
+ 18209 | Lair:1   | Gained mutation: You expend magic power (3 MP) to
+                  | strengthen your wands. [potion of mutation]
+ 18215 | Lair:1   | Lost mutation: You tend to lose your temper in combat.
+                  | [potion of mutation]
+ 18215 | Lair:1   | Lost mutation: Armour fits poorly on your strangely shaped
+                  | body. [potion of mutation]
+ 18215 | Lair:1   | Lost mutation: You expend magic power (3 MP) to strengthen
+                  | your wands. [potion of mutation]
+ 18215 | Lair:1   | Gained mutation: You have sharp toenails. [potion of
+                  | mutation]
+ 18215 | Lair:1   | Gained mutation: You have very sharp teeth. [potion of
+                  | mutation]
+ 18229 | Lair:2   | Killed a four-headed hydra
+ 18309 | Lair:2   | Reached skill level 14 in Maces & Flails
+ 18452 | Lair:2   | Noticed a seven-headed hydra
+ 18470 | Lair:2   | Reached **** piety under Trog
+ 18475 | Lair:2   | Killed a seven-headed hydra
+ 18485 | Lair:2   | Reached XP level 13. HP: 51/84 MP: 6/13
+ 20168 | Lair:3   | Found a staircase to the Snake Pit.
+ 21002 | Lair:3   | Found a staircase to the Shoals.
+ 21024 | Lair:3   | Reached skill level 1 in Unarmed Combat
+ 21160 | Lair:3   | Found a staircase to the Snake Pit.
+ 22023 | Shoals:1 | Entered Level 1 of the Shoals
+ 22380 | Snake:1  | Entered Level 1 of the Snake Pit
+ 22690 | Snake:1  | Reached skill level 15 in Maces & Flails
+ 22693 | Snake:1  | Noticed a naga warrior
+ 22703 | Snake:1  | Noticed a naga warrior
+ 22710 | Snake:1  | Killed a naga warrior
+ 22729 | Snake:1  | Killed a naga warrior
+ 22737 | Snake:1  | Slain by an anaconda
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      amcnicky_arrival_double_pillar, layout_basic, serial_corexii_hall,
+          chequers_hall_statues_wall_a, chequers_hall_statues_corner_a,
+          basic_ecumenical_altar
+D:2:      minmay_skewed_foursquare, layout_loops_cross, serial_shops, shop,
+          chequers_serial_rivers_micro_a, supply_closet_lemuel,
+          grunt_ministairs_12
+D:3:      layout_loops_ring, uniq_grinder
+D:4:      gammafunk_cloud_chamber, layout_loops_corners,
+          makhleb_altar_promises_db, hangedman_decor_diamond_cutter
+D:5:      layout_loops_ring, overflow_temple_1_default
+D:6:      layout_rooms, minmay_temple_entry_nine_rooms, hangedman_glass_garden
+D:7:      layout_basic, zin_statuary, jmf_multi_god_temple, vehumet_statue,
+          enter_bailey_2
+D:8:      layout_basic, gammafunk_temple_overflow_elements, serial_shops,
+          nicolae_shop_statue_plus
+D:9:      wad_statue_garden, layout_basic, general_overflow_altar,
+          kennysheep_mini_moat, nicolae_overflow_hidden_temple, serial_shops,
+          nicolae_square_shop, shop, nicolae_square_shop,
+          nicolae_shop_overgrown_old_shop, kennysheep_mini, minmay_bent,
+          uniq_joseph
+D:10:     layout_roguey, mainiacjoe_overflow_tiny_flanked,
+          minmay_lair_entry_grove
+Temple:   zaba_magenta_temple
+Lair:1:   layout_roguey, basic_altar, chequers_serial_rivers_micro_d,
+          lemuel_another_geyser
+Lair:2:   layout_hall_layers, infiniplex_staircase_pool_2, grunt_megastairs_1,
+          uniq_harold
+Lair:3:   layout_regular_city, elwin_shoals_entry_rocks,
+          guppyfry_snake_entry_island, wad_woods_road_05
+Shoals:1: cheibrodos_shoals_epimethial_gifts, layout_shoals,
+          nzn_prometheus_bound, uniq_frances
+Snake:1:  minmay_snake_river, layout_misc_corridors, serial_shops,
+          nicolae_shop_advertising_works [nicolae_subvault_shop_adworks]
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 |
+---------------+----------------------------------------+-----
+Dodging        |        2              3     4     5    |  5.4
+Maces & Flails |           5        6  8 10 11 12 14 15 | 15.1
+Fighting       |           4        5     6  8  9 11 12 | 12.4
+Armour         |           3        4  5  7  9 11 12 13 | 13.9
+Stealth        |                    1     2     3       |  3.2
+Shields        |                    1  2                |  2.2
+Unarmed Combat |                                      3 |  3.6
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: Mace              |   109 |   104 |   322 |   650 |   337 ||  1522
+       Punch             |     1 |     3 |     4 |     9 |     9 ||    26
+       Kick              |       |       |       |    21 |   126 ||   147
+       Bite              |       |       |       |     9 |    44 ||    53
+Invok: Trog's Hand       |       |     2 |     3 |     9 |     3 ||    17
+       Berserk           |       |     2 |     5 |     9 |     3 ||    19
+  Use: Scroll            |       |       |     6 |    10 |     3 ||    19
+       Potion            |       |       |       |     4 |     3 ||     7
+ Stab: Sleeping          |     1 |       |       |       |       ||     1
+Armor: Animal skin       |    26 |       |       |       |       ||    26
+       Leather armour    |    19 |    24 |       |       |       ||    43
+       Chain mail        |       |    16 |   260 |   427 |   187 ||   890
+Dodge: Dodged            |    66 |    41 |   184 |   361 |   143 ||   795
+Block: Other             |       |    10 |    15 |       |       ||    25
+

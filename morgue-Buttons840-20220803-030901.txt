@@ -1,0 +1,223 @@
+ Dungeon Crawl Stone Soup version 0.28.0-53-g5a82cb2 (webtiles) character file.
+
+Game seed: 11414259255030455467
+
+63 Buttons840 the Cudgeller (level 4, -3/29 HPs)
+             Began as a Gargoyle Berserker on Aug 3, 2022.
+             Was a Follower of Trog.
+             Killed from afar by Ijyb (15 damage)
+             ... with an iceblast
+             ... on level 3 of the Dungeon.
+             The game lasted 00:15:03 (2537 turns).
+
+Buttons840 the Cudgeller (Gargoyle Berserker)       Turns: 2537, Time: 00:15:04
+
+Health: -3/29      AC:  9    Str: 23    XL:     4   Next: 9%
+Magic:  4/4        EV: 11    Int:  7    God:    Trog [*.....]
+Gold:   134        SH:  0    Dex:  9    Spells: 3/3 levels left
+
+rFire   . . .      SeeInvis .   a - +0 mace
+rCold   . . .      Faith    .   (no shield)
+rNeg    + . .      Spirit   .   d - +0 ring mail
+rPois   ∞          Reflect  .   (no helmet)
+rElec   +          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   ..........              (no amulet)
+HPRegen 0.09/turn               (no ring)
+MPRegen 0.09/turn               (no ring)
+
+@: no status effects
+A: sickness immunity, AC +3, negative energy resistance 1, electricity
+resistance, torment resistance 1, petrification resistance
+a: Renounce Religion, Berserk
+
+
+You were on level 3 of the Dungeon.
+You worshipped Trog.
+Trog was aware of your devotion.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 134 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 mace (weapon)
+Missiles
+ e - 111 stones (quivered)
+Armour
+ d - a +0 ring mail (worn)
+Scrolls
+ b - a scroll of vulnerability {unknown}
+ g - a scroll of torment {unknown}
+ j - a scroll of amnesia {unknown}
+ k - a scroll of enchant weapon {unknown}
+Potions
+ c - 4 potions of curing {unknown}
+ f - 2 potions of attraction {unknown}
+ h - a potion of berserk rage {unknown}
+ i - 2 potions of lignification {unknown}
+ l - a potion of invisibility {unknown}
+
+
+   Skills:
+ + Level 3.6 Fighting
+ + Level 3.8 Maces & Flails
+ + Level 3.0 Armour
+ + Level 2.0 Dodging
+ + Level 0.3 Stealth
+
+
+You had 3 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+
+Annotations:
+D:3 Ijyb
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to sickness and miasma.
+Your stone body is resilient. (AC +3)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You are resistant to unholy torment.
+You are immune to petrification.
+
+Message History
+
+Ijyb is moderately wounded.
+Ijyb hits you but does no damage.
+You hit Ijyb.
+Ijyb is moderately wounded.
+Ijyb hits you with a +0 club.
+You completely miss Ijyb.
+Ijyb is moderately wounded.
+Ijyb hits you but does no damage.
+Your skin crawls.
+You feel strong-willed.
+You can no longer call upon Trog for regeneration and willpower.
+Ijyb hits you with a +0 club.
+A kobold comes into view. It is wielding a +1 short sword of venom.
+You hit Ijyb but do no damage.
+Ijyb is moderately wounded.
+Ijyb hits you but does no damage. Ijyb barely misses you.
+You sock Ijyb!
+Ijyb is severely wounded.
+Ijyb hits you with a +0 club.
+Ijyb barely misses you.
+Ijyb zaps a wand. The mass of ice explodes! The iceblast engulfs you!
+* * * LOW HITPOINT WARNING * * *
+You feel the effects of Trog's Hand fading.
+There is a stone staircase leading down here.
+Your skin stops crawling. You feel less strong-willed.
+Ijyb screams, "No! No, no, no, no!"
+The kobold barely misses you.
+You climb downwards.
+The orc shouts! x2; You hear a shout! x2
+Found a stone staircase leading up.
+There is a stone staircase leading up here.
+The orc wizard hits you but does no damage.
+The kobold hits you but does no damage. The orc barely misses you.
+You climb upwards.
+Level annotation: Ijyb
+Ijyb zaps a wand. The mass of ice explodes! The iceblast engulfs the orc!!
+The orc dies!
+The iceblast engulfs you!
+Ouch! That really hurt!
+You die...
+
+        #  #..#
+        #. #..#
+        #.##..#
+        #.....#  #####
+        ###...####....
+        #.......##.###
+        #..........#
+#.#######....:..######
+#...K@)o..............
+#######.###.....).####
+.........g#.###.#.#
+#######.#.#.###.#.#
+      #.........#.####
+      ###########.....
+                ######
+
+
+You could see Ijyb, an orc wizard and a kobold.
+
+Vanquished Creatures
+  A gnoll (D:1)
+  An adder (D:2)
+  2 worms (D:2)
+  3 ball pythons
+  3 bats
+  An endoplasm (D:3)
+  2 giant cockroaches
+  5 goblins
+  3 hobgoblins
+  4 jackals (D:2)
+  A quokka (D:2)
+  2 frilled lizards (D:2)
+  2 kobolds
+  7 rats
+37 creatures vanquished.
+
+Vanquished Creatures (others)
+  An orc (D:3)
+  A plant (D:3)
+2 creatures vanquished.
+
+Grand Total: 39 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Buttons840 the Gargoyle Berserker began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 1/1
+   217 | D:1      | Reached XP level 2. HP: 10/19 MP: 2/2
+  1014 | D:1      | Reached XP level 3. HP: 22/23 MP: 3/3
+  1056 | D:1      | Found a faded altar of an unknown god.
+  1719 | D:2      | Reached ** piety under Trog
+  1753 | D:2      | Reached XP level 4. HP: 29/29 MP: 4/4
+  2512 | D:3      | Noticed Ijyb
+  2537 | D:3      | Killed from afar by Ijyb
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      minmay_arrival_checkered_box, layout_loops_ring,
+          basic_ecumenical_altar, kennysheep_doodads
+D:2:      layout_loops_ring
+D:3:      minmay_angry_zag, layout_loops_ring, serial_bayou_crossing, uniq_ijyb
+D:4:      layout_cave_pools, nicolae_shop_clearance, uniq_grinder
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Dodging        |        2 |  2.0
+Armour         |        3 |  3.0
+Fighting       |          |  3.6
+Maces & Flails |          |  3.8
+Stealth        |          |  0.3
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Mace              |    87 |    20 ||   107
+       Punch             |       |     1 ||     1
+Invok: Trog's Hand       |       |     1 ||     1
+Armor: Animal skin       |     3 |       ||     3
+       Ring mail         |    42 |     7 ||    49
+Dodge: Dodged            |    49 |    11 ||    60
+

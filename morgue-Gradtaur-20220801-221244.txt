@@ -1,0 +1,178 @@
+ Dungeon Crawl Stone Soup version 0.28.0 (tiles) character file.
+
+Game seed: 8352267941830602934
+
+4 Gradtaur the Skirmisher (level 1, -1/14 HPs)
+             Began as a Gargoyle Berserker on Aug 1, 2022.
+             Was a Follower of Trog.
+             Slain by a jackal (3 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:06:32 (273 turns).
+
+Gradtaur the Skirmisher (Gargoyle Berserker)         Turns: 273, Time: 00:06:32
+
+Health: -1/14      AC:  4    Str: 20    XL:     1   Next: 70%
+Magic:  1/1        EV: 11    Int:  7    God:    Trog [*.....]
+Gold:   0          SH:  0    Dex:  9    Spells: 0/0 levels left
+
+rFire   . . .      SeeInvis .   b - +0 trident
+rCold   . . .      Faith    .   (no shield)
+rNeg    + . .      Spirit   .   a - +0 animal skin
+rPois   ?           Reflect  .   (no helmet)
+rElec   +          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   +.........              (no amulet)
+HPRegen 0.04/turn               (no ring)
+MPRegen 0.07/turn               (no ring)
+
+@: no status effects
+A: sickness immunity, AC +2, negative energy resistance 1, electricity
+resistance, torment resistance 1, petrification resistance
+a: Renounce Religion, Berserk
+
+
+You were on level 1 of the Dungeon.
+You worshipped Trog.
+Trog was aware of your devotion.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ b - a +0 trident (weapon)
+Missiles
+ c - 3 stones (quivered)
+Armour
+ a - a +0 animal skin (worn)
+
+
+   Skills:
+ + Level 3.4 Fighting
+ + Level 2.2 Armour
+ + Level 1.6 Dodging
+ + Level 3.1 Unarmed Combat
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to sickness and miasma.
+Your stone body is resilient. (AC +2)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You are resistant to unholy torment.
+You are immune to petrification.
+
+Message History
+
+You hit the kobold.
+You kill the kobold!
+Trog accepts your kill.
+Search for what [? for help]? .
+Unknown command.
+Unknown command.
+c - 3 stones
+Things that are here:
+a +0 short sword; a kobold corpse
+A ball python comes into view.
+The ball python hisses angrily.
+A jackal comes into view.
+You barely miss the ball python. You punch the ball python.
+You kill the ball python!
+Trog accepts your kill.
+A jackal is nearby!
+A jackal is nearby!
+The jackal barks! You hear a bark!
+A jackal comes into view.
+The jackal barks!
+A jackal comes into view. A rat comes into view.
+You closely miss the jackal. The jackal barely misses you.
+A jackal comes into view.
+The jackal bites you.
+The jackal barks!
+You hit the jackal but do no damage. The jackal barely misses you.
+You barely miss the jackal. The jackal bites you.
+You barely miss the jackal. The jackal closely misses you. The jackal
+completely misses you.
+The jackal bites you but does no damage.
+The jackal bites you. x2
+The jackal bites you but does no damage.
+The jackal bites you. x2
+* * * LOW HITPOINT WARNING * * *
+You barely miss the jackal.
+The jackal bites you but does no damage.
+You completely miss the jackal.
+You hit the jackal but do no damage. The jackal misses you. The jackal bites
+you.
+* * * LOW HITPOINT WARNING * * *
+The jackal bites you.
+You die...
+
+...
+...
+....
+.....
+.....#################
+........%............#
+.........##...######.#
+..............)#   #.#
+r....###.##...###  #.#
+...#   #.....#h@#  #.#
+##     ####.hh#h## #.#
+          ##.##..###.#
+           #.......#.#
+           #..8.8....#
+           #.8.8.8...#
+           #..8_8..#.#########
+          #..8.8.8............
+          ##..8.8....########.
+          #............#
+          ..#.....#.##.#
+            .######.##.#
+
+
+You could see 4 jackals.
+
+Vanquished Creatures
+  A bat (D:1)
+  An endoplasm (D:1)
+  A ball python (D:1)
+  A kobold (D:1)
+  A rat (D:1)
+5 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Gradtaur the Gargoyle Berserker began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 1/1
+    28 | D:1      | Found a faded altar of an unknown god.
+   273 | D:1      | Slain by a jackal
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      sevenhm_arrival_forest_fort_small_3, layout_loops_ring,
+          chequers_ecumenical_altar_simple_redux
+
+Action                   || total
+-------------------------++-------
+Melee: Trident           ||    20
+       Punch             ||     1
+Armor: Animal skin       ||     4
+Dodge: Dodged            ||    12
+
