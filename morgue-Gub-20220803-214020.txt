@@ -1,0 +1,224 @@
+ Dungeon Crawl Stone Soup version 0.28.0 (tiles) character file.
+
+Game seed: 14903408577083923532
+
+103 Gub the Conjurer (level 5, 0/35 HPs)
+             Began as a Human Conjurer on Aug 3, 2022.
+             Slain by an adder (4 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:23:27 (3069 turns).
+
+Gub the Conjurer (Human Conjurer)                   Turns: 3069, Time: 00:23:27
+
+Health: 0/35       AC:  5    Str:  7    XL:     5   Next: 6%
+Magic:  0/9        EV: 11    Int: 21    God:    
+Gold:   96         SH:  0    Dex: 11    Spells: 6/9 levels left
+
+rFire   . . .      SeeInvis .   f - +0 short sword (freeze)
+rCold   . . .      Faith    .   (no shield)
+rNeg    + . .      Spirit   .   i - +0 leather armour
+rPois   .          Reflect  .   l - +0 helmet
+rElec   .          Harm     .   c - +0 cloak
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   ++........              (no amulet)
+HPRegen 0.11/turn               h - ring of positive energy
+MPRegen 0.11/turn               (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 96 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ f - a +0 short sword of freezing (weapon)
+Armour
+ c - a +0 cloak (worn)
+ i - a +0 leather armour (worn)
+ l - a +0 helmet (worn)
+Jewellery
+ h - a ring of positive energy (left hand)
+Scrolls
+ b - a scroll of identify {unknown}
+ d - 4 scrolls of teleportation {unknown}
+ e - 2 scrolls of amnesia {unknown}
+Potions
+ a - a potion of mutation {unknown}
+ g - 4 potions of curing {unknown}
+ j - a potion of brilliance {unknown}
+ k - a potion of heal wounds {unknown}
+
+
+   Skills:
+ + Level 1.0 Armour
+ + Level 2.3 Dodging
+ + Level 2.2 Stealth
+ + Level 2.8 Spellcasting
+ + Level 5.0 Conjurations
+
+
+You had 6 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Magic Dart            Conj           96%        1d7       2%          1
+b - Searing Ray           Conj           48%        2d6       3%          2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Sandblast                Erth           6%         2d5       21%         1
+ Dazzling Flash           Conj/Hex       26%        N/A       22%         3
+ Stone Arrow              Conj/Erth      26%        3d8       22%         3
+ Passwall                 Tmut/Erth      2%         N/A       30%         2
+ Fulminant Prism          Conj/Hex       6%         3d7       56%         4
+ Iskenderun's Mystic Bla  Conj/Tloc      13%        2d5       56%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+
+Message History
+
+The adder bites you but does no damage. x2
+You miss the adder.
+The adder is moderately wounded.
+The adder bites you.
+You are poisoned.
+The adder poisons you!
+You hit the adder but do no damage.
+The adder is moderately wounded.
+You feel sick. The adder bites you but does no damage. x2
+You feel sick.
+You feel sick.
+You are no longer poisoned.
+The adder bites you.
+You are poisoned.
+The adder poisons you!
+You feel sick.
+You feel sick.
+You feel sick.
+You feel sick. The adder bites you.
+* * * LOW HITPOINT WARNING * * *
+You are more poisoned.
+The adder poisons you!
+You feel sick.
+You feel sick.
+You feel sick. The adder barely misses you.
+You feel sick.
+You feel sick.
+You feel sick.
+You are no longer poisoned.
+The adder barely misses you.
+Casting: Searing Ray (safe; 3% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Searing Ray (safe; 3% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f - adder
+Aim: an adder (lightly wounded, 66% to hit)
+The searing ray hits the adder.
+The adder is severely wounded.
+(Press . to maintain the ray.)
+The adder bites you but does no damage. The adder bites you.
+You die...
+
+    #..~.~~~...####.....###
+      ..~~~~....%.........#
+      ..~~~~P.#.###.....##
+      ..~~~~#..........##
+      .~#~~~#...#########
+      ..#~~~#.#.#      .<
+        ##~~#...#     #.#
+            #..##     #.#
+            ##.#     ##.####
+             #.#     #.....#
+             #.#######.....###
+             #.S@............##
+             #########.....#..#
+                     #.)......#
+#     ###            ##....00.#
+#     #.###############..#...##
+#     #.##...............#####
+#     #.##.############.##
+#######.##.#          #.#
+...........#          #.#
+.#.#########          ..#
+...<......            ###
+.#########
+
+
+You could see an adder.
+
+Vanquished Creatures
+  Jessica (D:3)
+  2 adders
+  2 worms (D:2)
+  A dart slug (D:2)
+  5 endoplasms
+  4 giant cockroaches
+  3 goblins
+  6 hobgoblins
+  5 jackals
+  3 kobolds
+  2 quokkas
+  2 ball pythons
+  4 bats
+  4 frilled lizards
+  2 rats (D:1)
+46 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Gub the Human Conjurer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   625 | D:1      | Reached XP level 2. HP: 19/19 MP: 0/5
+  1038 | D:1      | Reached XP level 3. HP: 24/24 MP: 1/6
+  1960 | D:2      | Reached XP level 4. HP: 30/30 MP: 2/7
+  2785 | D:3      | Noticed Jessica
+  2910 | D:2      | Learned a level 2 spell: Searing Ray
+  2914 | D:3      | Killed Jessica
+  2915 | D:3      | Reached skill level 5 in Conjurations
+  2966 | D:3      | Found a faded altar of an unknown god.
+  3041 | D:3      | Reached skill level 1 in Armour
+  3041 | D:3      | Reached XP level 5. HP: 30/35 MP: 3/9
+  3069 | D:3      | Slain by an adder
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_ternary, layout_basic, minmay_misc_feat_roman
+D:2:      layout_loops_ring, kennysheep_pointless_box
+D:3:      layout_loops_ring, lemuel_doored_altar, ebering_ecumenical_altar_mist,
+          corner_web_ring, chequers_big_river, nrook_uturn,
+          chequers_serial_rivers_room_a, minmay_misc_feat_five,
+          chequers_serial_rivers_marsh, uniq_jessica, uniq_natasha
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Conjurations   |           5 |  5.0
+Armour         |           1 |  1.0
+Dodging        |             |  2.3
+Stealth        |             |  2.2
+Spellcasting   |             |  2.8
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |     5 |       ||     5
+       Short sword       |       |     5 ||     5
+ Cast: Magic Dart        |    64 |    40 ||   104
+       Searing Ray       |       |     6 ||     6
+Armor: Robe              |    12 |       ||    12
+       Leather armour    |     1 |    12 ||    13
+Dodge: Dodged            |    33 |    11 ||    44
+

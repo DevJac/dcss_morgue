@@ -1,0 +1,292 @@
+ Dungeon Crawl Stone Soup version 0.28.0 (tiles) character file.
+
+Game seed: 2333766566011227527
+
+85 Gub the Conjurer (level 4, -8/30 HPs)
+             Began as a Human Conjurer on Aug 3, 2022.
+             Was a Priest of Jiyva.
+             Mangled by Crazy Yiuf (16 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:27:27 (2427 turns).
+
+Gub the Conjurer (Human Conjurer)                   Turns: 2427, Time: 00:27:28
+
+Health: -8/30      AC:  3    Str:  7    XL:     4   Next: 75%
+Magic:  6/7        EV: 12    Int: 25    God:    Jiyva [***...]
+Gold:   7          SH:  0    Dex: 17    Spells: 4/7 levels left
+
+rFire   + . .      SeeInvis .   d - +1 falchion {flame, Int+5 Dex+5 Stlth+}
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   c - +0 leather armour
+rPois   +          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   +          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   +++.......              (no amulet)
+HPRegen 1.22/turn               e - ring of protection from fire
+MPRegen 0.45/turn               (no ring)
+
+@: no status effects
+A: poison resistance, evolution 1, jelly sensing items, engulf
+a: Renounce Religion, Oozemancy
+
+
+You were on level 3 of the Dungeon.
+You worshipped Jiyva.
+Jiyva was most pleased with you.
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 77 gold pieces.
+You spent 70 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 dagger
+ d - the +1 falchion of Laezol (weapon) {flame, Int+5 Dex+5 Stlth+}
+   (You found it on level 2 of the Dungeon)   
+   
+   It burns those it strikes, dealing additional fire damage. Big, fiery blades
+   are also staple armaments of hydra-hunters.
+   
+   Int:       It affects your intelligence (+5).
+   Dex:       It affects your dexterity (+5).
+   Stlth:     It makes you more stealthy.
+Armour
+ c - a +0 leather armour (worn)
+Jewellery
+ e - a ring of protection from fire (left hand)
+Wands
+ f - a wand of charming (5)
+Potions
+ b - 2 potions of invisibility {unknown}
+ g - a potion of heal wounds
+
+
+   Skills:
+ * Level 0.5 Long Blades
+ + Level 0.5 Armour
+ + Level 2.2 Dodging
+ + Level 2.3 Stealth
+ + Level 2.3 Spellcasting
+ + Level 5.2 Conjurations
+
+
+You had 4 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Magic Dart            Conj           100%       1d8       1%          1
+b - Searing Ray           Conj           56%        2d6       2%          2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Dazzling Flash           Conj/Hex       30%        N/A       16%         3
+ Fulminant Prism          Conj/Hex       7%         3d7       47%         4
+ Iskenderun's Mystic Bla  Conj/Tloc      15%        2d5       47%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+Vehumet
+Jiyva
+
+Shops:
+D:3 [(([!
+
+Annotations:
+D:2 exclusions: goblin and 5 more exclusions
+D:3 Crazy Yiuf
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your system is resistant to poisons. (rPois)
+You have hidden genetic potential.
+You have a small jelly attached to you that senses nearby items.
+Your melee attacks may engulf your foes in ooze.
+
+Message History
+
+Press: ? - help, Shift-Dir - straight line, f/p - Crazy Yiuf
+Aim: Crazy Yiuf, wielding a +2 quarterstaff of chaos and wearing a +1 cloak
+(lightly wounded, 82% to hit)
+The searing ray hits Crazy Yiuf.
+Crazy Yiuf is lightly wounded.
+(Press . to maintain the ray.)
+Crazy Yiuf hits you with a +2 quarterstaff of chaos!
+Ouch! That really hurt!
+Crazy Yiuf draws strength from your wounds!
+Crazy Yiuf screams, "Whippet! Ice ladder mobile."
+Crazy Yiuf says, "Crazy? Crazy!? PORCUPINE!"
+Crazy Yiuf says, "Lugonu fast arm!"
+You hit Crazy Yiuf. You burn Crazy Yiuf.
+Crazy Yiuf is lightly wounded.
+Crazy Yiuf hits you with a +2 quarterstaff of chaos.
+You hear a distant slurping noise.
+You hear a distant slurping noise.
+Crazy Yiuf yells, "Line koolooloo illywillydillykilly!"
+Crazy Yiuf misses you.
+Casting: Searing Ray (safe; 2% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Searing Ray (safe; 2% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - Crazy Yiuf
+Aim: Crazy Yiuf, wielding a +2 quarterstaff of chaos and wearing a +1 cloak
+(lightly wounded, 82% to hit)
+The searing ray hits Crazy Yiuf!
+Crazy Yiuf is heavily wounded.
+(Press . to maintain the ray.)
+The searing ray hits Crazy Yiuf.
+Crazy Yiuf is severely wounded.
+Crazy Yiuf hits you with a +2 quarterstaff of chaos!
+Really fire in the jelly's direction? This attack would place you under
+penance! 
+Okay, then.
+You stop channelling your searing ray.
+Crazy Yiuf hits you with a +2 quarterstaff of chaos!
+Crazy Yiuf screams, "Snurf! Hack down green."
+Crazy Yiuf cries, "Whiteboard high unthinkable!"
+Crazy Yiuf hits you with a +2 quarterstaff of chaos!
+* * * LOW HITPOINT WARNING * * *
+You are electrocuted!
+Ouch! That really hurt!
+You die...
+
+..###.###  #.....#...........####
+### #..#####....###..............
+######..<........##.....J.....###
+.......#####.....##......<...##
+.J......####.....##.#.......^#
+.................##..........#
+.............................#
+.......#.........###.........####
+.......##.#..........<.......#...
+##.......................J...#...
+ #.##............g...............
+ #.###..........@...J............
+##.###................##.#.##....
+#.....................##.#.##....
+#.#..............J....##...##....
+#...##..................##..#....
+#..######..............8....#...#
+....###......##.........##.####..
+###\............#.##.8<\.8...##..
+..#...####.#............####.#...
+#.#...........#.....##.8.....#...
+#.#........######.####.......#...
+#.#.......##    #.#  #####.......
+
+
+You could see Crazy Yiuf and 2 neutral jellies(fellow slime).
+
+Vanquished Creatures
+  Terence (D:3)
+  An adder (D:3)
+  An ufetubus (D:3)
+  A dart slug (D:3)
+  An orc (D:3)
+  4 bats
+  An endoplasm (D:1)
+  A giant cockroach (D:3)
+  8 goblins
+  4 hobgoblins
+  10 jackals
+  6 kobolds
+  2 quokkas
+  6 ball pythons
+  A rat (D:3)
+48 creatures vanquished.
+
+Vanquished Creatures (others)
+  A jelly (D:3)
+  Robin (D:2)
+  An adder (D:3)
+  3 worms (D:2)
+  3 bats (D:2)
+  A giant cockroach (D:1)
+  5 goblins (D:2)
+  3 hobgoblins
+  A frilled lizard (D:2)
+  A rat (D:3)
+  13 plants (D:1)
+33 creatures vanquished.
+
+Grand Total: 81 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Gub the Human Conjurer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   165 | D:1      | Found a faded altar of an unknown god.
+   170 | D:1      | Prayed at the altar of an unknown god.
+   170 | D:1      | Became a worshipper of Jiyva Juphafu the Shapeless
+   170 | D:1      | Reached * piety under Jiyva
+   178 | D:1      | Reached XP level 2. HP: 19/19 MP: 3/5
+   932 | D:2      | Noticed Robin
+   977 | D:2      | Identified the +1 falchion of Laezol {flame, Int+5 Dex+5
+                  | Stlth+}
+   991 | D:2      | Reached ** piety under Jiyva
+   996 | D:2      | Reached XP level 3. HP: 24/24 MP: 3/6
+  1206 | D:2      | Killed Robin
+  1287 | D:2      | Found a radiant altar of Vehumet.
+  1410 | D:2      | Learned a level 2 spell: Searing Ray
+  1948 | D:3      | Reached *** piety under Jiyva
+  1989 | D:3      | Reached XP level 4. HP: 30/30 MP: 3/7
+  2004 | D:3      | Found Jepla's Weapon Boutique.
+  2028 | D:3      | Found Poerey's Antique Armour Boutique.
+  2031 | D:3      | Reached skill level 5 in Conjurations
+  2080 | D:3      | Gained mutation: You have a small jelly attached to you
+                  | that senses nearby items. [Jiyva's grace]
+  2080 | D:3      | Gained mutation: Your system is resistant to poisons.
+                  | (rPois) [Jiyva's grace]
+  2080 | D:3      | Gained mutation: Your melee attacks may engulf your foes in
+                  | ooze. [Jiyva's grace]
+  2080 | D:3      | Gained mutation: You have hidden genetic potential.
+                  | [Jiyva's grace]
+  2149 | D:3      | Found Loefomegg's Armour Emporium.
+  2153 | D:3      | Found Lyony's Distillery.
+  2164 | D:3      | Bought a potion of heal wounds for 70 gold pieces
+  2190 | D:3      | Found Xampil's Antique Weapon Boutique.
+  2200 | D:3      | Noticed Terence
+  2224 | D:3      | Killed Terence
+  2377 | D:3      | Found a runed translucent door.
+  2378 | D:3      | Noticed Crazy Yiuf
+  2427 | D:3      | Mangled by Crazy Yiuf
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      nicolae_arrival_somewhat_less_tricky_arrival, layout_loops_ring,
+          hellmonk_ecumenical_altar_heavens_door, serial_forest,
+          infiniplex_forest_lined_3_way, infiniplex_forest_clump_diagonal,
+          infiniplex_forest_clump_medium, infiniplex_forest_clump_curved,
+          infiniplex_forest_end_2
+D:2:      layout_basic, basic_altar, chequers_avenue, st_stairs_3,
+          kennysheep_generic_room_13, uniq_robin
+D:3:      layout_rooms, serial_shops, nicolae_shop_statue_plus, shop,
+          nicolae_shop_crystal, shop, shop, uniq_terence,
+          uniq_crazy_yiuf_cottage
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Conjurations   |           5 |  5.2
+Long Blades    |             |  0.5
+Armour         |             |  0.5
+Dodging        |             |  2.2
+Stealth        |             |  2.3
+Spellcasting   |             |  2.3
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Dagger            |    18 |       ||    18
+       Falchion          |       |     1 ||     1
+ Cast: Magic Dart        |    52 |    34 ||    86
+       Searing Ray       |       |     4 ||     4
+Dodge: Dodged            |       |     3 ||     3
+

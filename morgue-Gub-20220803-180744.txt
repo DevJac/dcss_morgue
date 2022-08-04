@@ -1,0 +1,218 @@
+ Dungeon Crawl Stone Soup version 0.28.0 (tiles) character file.
+
+Game seed: 1721532000788923541
+
+55 Gub the Skirmisher (level 3, -6/34 HPs)
+             Began as a Minotaur Berserker on Aug 3, 2022.
+             Was a Believer of Trog.
+             Killed from afar by an orc wizard (15 damage)
+             ... with a puff of flame
+             ... on level 3 of the Dungeon.
+             The game lasted 00:12:14 (1322 turns).
+
+Gub the Skirmisher (Minotaur Berserker)             Turns: 1322, Time: 00:12:15
+
+Health: -6/34      AC:  3    Str: 21    XL:     3   Next: 67%
+Magic:  2/2        EV: 12    Int:  4    God:    Trog [**....]
+Gold:   48         SH:  3    Dex: 11    Spells: 2/2 levels left
+
+rFire   . . .      SeeInvis .   a - +0 falchion
+rCold   . . .      Faith    +   j - +0 buckler
+rNeg    . . .      Spirit   .   b - +0 animal skin
+rPois   .          Reflect  .   (helmet restricted)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   i - +0 pair of gloves
+Will    ++...                   (no boots)
+Stlth   +.........              f - amulet of faith
+HPRegen 1.11/turn               (no ring)
+MPRegen 0.08/turn               (no ring)
+
+@: strong-willed, on berserk cooldown, regenerating, slowed, very slow
+A: horns 2, retaliatory headbutt
+a: Renounce Religion, Berserk, Trog's Hand
+
+
+You were on level 3 of the Dungeon.
+You worshipped Trog.
+Trog was pleased with you.
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 48 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 falchion (weapon)
+Missiles
+ d - 28 stones (quivered)
+Armour
+ b - a +0 animal skin (worn)
+ i - a +0 pair of gloves (worn)
+ j - a +0 buckler (worn)
+Jewellery
+ f - an amulet of faith (around neck)
+Scrolls
+ e - 2 scrolls of identify {unknown}
+ g - a scroll of teleportation {unknown}
+Potions
+ c - a potion of curing {unknown}
+ h - a potion of flight {unknown}
+
+
+   Skills:
+ + Level 4.6 Fighting
+ + Level 4.4 Long Blades
+ + Level 2.6 Armour
+ + Level 2.6 Dodging
+ + Level 0.2 Shields
+
+
+You had 2 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+
+Annotations:
+D:2 Jessica
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+Something hits you. x2
+You are too injured to fight recklessly!
+You bump into the rock wall. Something hits you but does no damage.
+You bump into the rock wall. Something hits you but does no damage. Something
+completely misses you.
+You bump into the rock wall. Something hits you.
+You miss something.
+You feel less confused.
+You hear some strange, mumbled words.
+Something tries to affect you, but you resist.
+Something hits you.
+* * * LOW HITPOINT WARNING * * *
+You hit something. Your headbutt misses something. You block something's
+attack. Something hits you.
+* * * LOW HITPOINT WARNING * * *
+Something barely misses you.
+Something hits you.
+* * * LOW HITPOINT WARNING * * *
+Something hits you but does no damage.
+An orc wizard appears from thin air!
+Reactivating autopickup.
+The orc wizard gestures at you while chanting.
+You block the puff of flame.
+You hit the orc wizard.
+The orc wizard is heavily wounded.
+The orc wizard hits you with a +0 dagger.
+* * * LOW HITPOINT WARNING * * *
+Your skin crawls.
+You feel strong-willed.
+The orc wizard hits you with a +0 dagger.
+* * * LOW HITPOINT WARNING * * *
+The orc wizard closely misses you. You furiously retaliate!
+You headbutt the orc wizard, but do no damage.
+Hit: a) +0 falchion
+Press: ? - help, Dir - move target, f - orc wizard
+Aim: an orc wizard, wielding a +0 dagger and wearing a +0 robe (moderately
+wounded, about 47% to evade your +0 falchion)
+Okay, then.
+You closely miss the orc wizard.
+The orc wizard is moderately wounded.
+The orc wizard points at you and mumbles some strange words.
+The puff of flame hits you!
+You die...
+
+ #.....#.........+
+##.#.#.#......8..#
+#..#...>.........##
+#..#..#........8..#..
+...........####.....#
+#.....#............##
+#.###.###..###......#
+.............+......#
+####.###.##.##......##
+   #.###.............#
+   #...#......<.##...#  #
+   ###.#.#..>...@.#####.#
+     #...#......o.......###
+     #####.######.........#
+      #.............############.
+      #.......##....##)).........
+      #.......##......)###....#..
+      ##########.......#  ....#
+               ##.....##  ....#
+                #######   ....#
+                          ...oo.
+                          ...o...
+                          .#.o.oo
+
+
+You could see an orc wizard.
+
+Vanquished Creatures
+  An adder (D:1)
+  2 dart slugs (D:1)
+  3 orcs (D:3)
+  A bat (D:1)
+  3 endoplasms
+  2 giant cockroaches (D:1)
+  2 goblins (D:1)
+  7 hobgoblins
+  4 jackals (D:1)
+  A quokka (D:2)
+  5 ball pythons (D:1)
+  2 frilled lizards (D:1)
+  A kobold (D:1)
+  A rat (D:1)
+35 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Gub the Minotaur Berserker began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   300 | D:1      | Reached XP level 2. HP: 21/27 MP: 1/1
+   533 | D:1      | Reached ** piety under Trog
+   548 | D:1      | Reached XP level 3. HP: 26/34 MP: 2/2
+   744 | D:1      | Found a faded altar of an unknown god.
+   930 | D:2      | Noticed Jessica
+  1322 | D:3      | Killed from afar by an orc wizard
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      zelgadis_glass_arrival_small, layout_rooms,
+          ebering_ecumenical_altar_hall
+D:2:      layout_rooms, basic_altar, serial_shops, nicolae_shop_crystal,
+          minmay_pentomino_z2, uniq_jessica
+D:3:      layout_basic, zin_statuary, gammafunk_ghost_nasty_kobolds
+
+Skill      XL: |  1  2 |
+---------------+-------+-----
+Fighting       |  4    |  4.6
+Long Blades    |     4 |  4.4
+Armour         |       |  2.6
+Dodging        |       |  2.6
+Shields        |       |  0.2
+
+Action                   || total
+-------------------------++-------
+Melee: Falchion          ||    79
+       Headbutt          ||     8
+Invok: Berserk           ||     1
+       Trog's Hand       ||     1
+Armor: Animal skin       ||    19
+Dodge: Dodged            ||    49
+Block: Buckler           ||     7
+
